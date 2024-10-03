@@ -4,6 +4,7 @@
 # Assignment due on September 13, 2024
 # Author: Lilia Soto Llamas
 # Date: September 5, 2024
+# git
 #-----------------------------------------------------
 
 # Declare the list globally
